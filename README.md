@@ -1,2 +1,2 @@
-# hepatitis_C_2023
-Model of hepatitis C transmission in Norway used in Whittaker, Midtbø and Kløvstad (2023)
+# Hepatitis C infectious disease model
+Model of hepatitis C transmission among people who inject drugs and immigrants in Norway used in Whittaker, Midtbø and Kløvstad (2023)
