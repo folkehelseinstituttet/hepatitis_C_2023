@@ -1,0 +1,325 @@
+Dødsår,Bofylke,Antall
+1996,Viken,45
+,Oslo,84
+,Innlandet,-
+,Vestfold og Telemark,18
+,Agder,7
+,Rogaland,11
+,Vestland,16
+,Møre og Romsdal,-
+,Trøndelag,11
+,Nordland,-
+,Troms og Finnmark,5
+,Ukjent,-
+1997,Viken,58
+,Oslo,74
+,Innlandet,8
+,Vestfold og Telemark,17
+,Agder,6
+,Rogaland,7
+,Vestland,11
+,Møre og Romsdal,-
+,Trøndelag,7
+,Nordland,5
+,Troms og Finnmark,-
+,Ukjent,-
+1998,Viken,72
+,Oslo,113
+,Innlandet,9
+,Vestfold og Telemark,18
+,Agder,8
+,Rogaland,20
+,Vestland,22
+,Møre og Romsdal,-
+,Trøndelag,11
+,Nordland,5
+,Troms og Finnmark,-
+,Ukjent,-
+1999,Viken,67
+,Oslo,83
+,Innlandet,9
+,Vestfold og Telemark,28
+,Agder,9
+,Rogaland,19
+,Vestland,24
+,Møre og Romsdal,-
+,Trøndelag,8
+,Nordland,-
+,Troms og Finnmark,-
+,Ukjent,-
+2000,Viken,85
+,Oslo,108
+,Innlandet,20
+,Vestfold og Telemark,33
+,Agder,21
+,Rogaland,29
+,Vestland,44
+,Møre og Romsdal,10
+,Trøndelag,16
+,Nordland,8
+,Troms og Finnmark,5
+,Ukjent,-
+2001,Viken,93
+,Oslo,112
+,Innlandet,21
+,Vestfold og Telemark,40
+,Agder,17
+,Rogaland,44
+,Vestland,33
+,Møre og Romsdal,9
+,Trøndelag,13
+,Nordland,13
+,Troms og Finnmark,13
+,Ukjent,-
+2002,Viken,76
+,Oslo,80
+,Innlandet,19
+,Vestfold og Telemark,24
+,Agder,27
+,Rogaland,25
+,Vestland,29
+,Møre og Romsdal,9
+,Trøndelag,10
+,Nordland,5
+,Troms og Finnmark,6
+,Ukjent,-
+2003,Viken,64
+,Oslo,46
+,Innlandet,17
+,Vestfold og Telemark,26
+,Agder,14
+,Rogaland,41
+,Vestland,26
+,Møre og Romsdal,-
+,Trøndelag,7
+,Nordland,-
+,Troms og Finnmark,-
+,Ukjent,-
+2004,Viken,86
+,Oslo,86
+,Innlandet,19
+,Vestfold og Telemark,17
+,Agder,10
+,Rogaland,31
+,Vestland,26
+,Møre og Romsdal,-
+,Trøndelag,11
+,Nordland,9
+,Troms og Finnmark,-
+,Ukjent,-
+2005,Viken,59
+,Oslo,56
+,Innlandet,10
+,Vestfold og Telemark,17
+,Agder,11
+,Rogaland,23
+,Vestland,28
+,Møre og Romsdal,8
+,Trøndelag,12
+,Nordland,5
+,Troms og Finnmark,5
+,Ukjent,-
+2006,Viken,66
+,Oslo,64
+,Innlandet,19
+,Vestfold og Telemark,12
+,Agder,7
+,Rogaland,20
+,Vestland,32
+,Møre og Romsdal,7
+,Trøndelag,10
+,Nordland,6
+,Troms og Finnmark,6
+,Ukjent,-
+2007,Viken,66
+,Oslo,43
+,Innlandet,15
+,Vestfold og Telemark,20
+,Agder,12
+,Rogaland,25
+,Vestland,45
+,Møre og Romsdal,13
+,Trøndelag,18
+,Nordland,11
+,Troms og Finnmark,10
+,Ukjent,-
+2008,Viken,61
+,Oslo,65
+,Innlandet,18
+,Vestfold og Telemark,23
+,Agder,9
+,Rogaland,22
+,Vestland,29
+,Møre og Romsdal,7
+,Trøndelag,16
+,Nordland,5
+,Troms og Finnmark,7
+,Ukjent,-
+2009,Viken,71
+,Oslo,68
+,Innlandet,15
+,Vestfold og Telemark,30
+,Agder,14
+,Rogaland,20
+,Vestland,37
+,Møre og Romsdal,-
+,Trøndelag,15
+,Nordland,-
+,Troms og Finnmark,8
+,Ukjent,-
+2010,Viken,61
+,Oslo,51
+,Innlandet,13
+,Vestfold og Telemark,25
+,Agder,10
+,Rogaland,18
+,Vestland,39
+,Møre og Romsdal,4
+,Trøndelag,12
+,Nordland,4
+,Troms og Finnmark,10
+,Ukjent,-
+2011,Viken,64
+,Oslo,48
+,Innlandet,9
+,Vestfold og Telemark,26
+,Agder,16
+,Rogaland,13
+,Vestland,47
+,Møre og Romsdal,5
+,Trøndelag,20
+,Nordland,10
+,Troms og Finnmark,4
+,Ukjent,-
+2012,Viken,46
+,Oslo,53
+,Innlandet,9
+,Vestfold og Telemark,25
+,Agder,8
+,Rogaland,21
+,Vestland,46
+,Møre og Romsdal,8
+,Trøndelag,12
+,Nordland,15
+,Troms og Finnmark,6
+,Ukjent,-
+2013,Viken,46
+,Oslo,50
+,Innlandet,9
+,Vestfold og Telemark,20
+,Agder,10
+,Rogaland,14
+,Vestland,38
+,Møre og Romsdal,14
+,Trøndelag,18
+,Nordland,16
+,Troms og Finnmark,6
+,Ukjent,-
+2014,Viken,62
+,Oslo,48
+,Innlandet,18
+,Vestfold og Telemark,28
+,Agder,8
+,Rogaland,18
+,Vestland,44
+,Møre og Romsdal,-
+,Trøndelag,-
+,Nordland,-
+,Troms og Finnmark,10
+,Ukjent,-
+2015,Viken,63
+,Oslo,58
+,Innlandet,14
+,Vestfold og Telemark,29
+,Agder,16
+,Rogaland,25
+,Vestland,33
+,Møre og Romsdal,11
+,Trøndelag,21
+,Nordland,10
+,Troms og Finnmark,8
+,Ukjent,-
+2016,Viken,60
+,Oslo,53
+,Innlandet,-
+,Vestfold og Telemark,23
+,Agder,13
+,Rogaland,25
+,Vestland,51
+,Møre og Romsdal,-
+,Trøndelag,23
+,Nordland,-
+,Troms og Finnmark,12
+,Ukjent,-
+2017,Viken,63
+,Oslo,44
+,Innlandet,14
+,Vestfold og Telemark,19
+,Agder,14
+,Rogaland,24
+,Vestland,41
+,Møre og Romsdal,5
+,Trøndelag,15
+,Nordland,7
+,Troms og Finnmark,5
+,Ukjent,-
+2018,Viken,63
+,Oslo,49
+,Innlandet,24
+,Vestfold og Telemark,25
+,Agder,19
+,Rogaland,27
+,Vestland,22
+,Møre og Romsdal,8
+,Trøndelag,29
+,Nordland,14
+,Troms og Finnmark,10
+,Ukjent,-
+2019,Viken,65
+,Oslo,36
+,Innlandet,-
+,Vestfold og Telemark,27
+,Agder,25
+,Rogaland,29
+,Vestland,21
+,Møre og Romsdal,5
+,Trøndelag,-
+,Nordland,18
+,Troms og Finnmark,14
+,Ukjent,-
+2020,Viken,89
+,Oslo,53
+,Innlandet,19
+,Vestfold og Telemark,23
+,Agder,25
+,Rogaland,33
+,Vestland,39
+,Møre og Romsdal,9
+,Trøndelag,14
+,Nordland,10
+,Troms og Finnmark,17
+,Ukjent,-
+2021,Viken,61
+,Oslo,39
+,Innlandet,8
+,Vestfold og Telemark,26
+,Agder,20
+,Rogaland,26
+,Vestland,29
+,Møre og Romsdal,5
+,Trøndelag,14
+,Nordland,7
+,Troms og Finnmark,12
+,Ukjent,-
+2022,Viken,73
+,Oslo,49
+,Innlandet,15
+,Vestfold og Telemark,38
+,Agder,15
+,Rogaland,30
+,Vestland,38
+,Møre og Romsdal,7
+,Trøndelag,23
+,Nordland,15
+,Troms og Finnmark,18
+,Ukjent,-
