@@ -50,7 +50,7 @@ for (with_forecast in c(FALSE, TRUE)) {
 
     if (!with_forecast) {
         # Add immigration population size by year, only for non-forecast
-        df_immigrants = read.csv("/home/jorgenem/gitrepos/HCV/data/immigrants/ssb_immigrant_prevalence-for_model.csv") %>%
+        df_immigrants = read.csv("../data/immigrants/ssb_immigrant_prevalence-for_model.csv") %>%
             group_by(Year) %>%
             summarise(
                 pop_immigrants = sum(prevalence)
@@ -686,7 +686,7 @@ for (with_forecast in c(FALSE, TRUE)) {
         # === Fractional prevalence ===
         # == Plot HCV RNA prevalence as fraction, PWID only
         # Load df_hcv
-        df_hcv = read.csv("/home/jorgenem/gitrepos/HCV/data/pwid_HCV_prevalence-all_surveys_combined-with_uncertainty_columns_for_plotting.csv")
+        df_hcv = read.csv("../data/pwid_HCV_prevalence-all_surveys_combined-with_uncertainty_columns_for_plotting.csv")
 
         # Error bar plot
         p = ggplot(data = dfpc %>% filter(type %in% c("frac_pos_active"))
@@ -923,7 +923,7 @@ for (with_forecast in c(FALSE, TRUE)) {
         
         # === Population size, PWID ===
         # Load and reformat PWID dataset for plotting
-        df_pwid = read.csv("/home/jorgenem/gitrepos/HCV/data/number_of_PWID-2000_peak_modified.csv")
+        df_pwid = read.csv("../data/number_of_PWID-2000_peak_modified.csv")
         df_pwid_plot = rbind(
             data.frame(
                 year=df_pwid$year,
@@ -1066,7 +1066,7 @@ for (with_forecast in c(FALSE, TRUE)) {
 
         # === Plot incidence treatments and data ===
         # Load treatment data
-        df_treatment = read.csv("/home/jorgenem/gitrepos/HCV/data/treatments-93percent.csv") 
+        df_treatment = read.csv("../data/treatments-93percent.csv") 
         # Add column for cumulative treatments
         df_treatment = df_treatment %>% mutate(
             cumulative_n_treated_total = cumsum(n_treated_total)

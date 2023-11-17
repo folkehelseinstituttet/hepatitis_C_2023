@@ -1,0 +1,5 @@
+data/pwid_HCV_prevalence-all_surveys_combined-with_uncertainty_columns_for_plotting.csv
+model/dust*
+*.png
+*.rds
+model/output_and_plots/*

@@ -36,12 +36,12 @@ for (is in 1:length(scenarios)) {
     dt = 0.25 # 1 
 
     # Set MCMC and particle filter parameters
-    n_particles = 20
-    n_burnin = 10
-    n_steps = n_burnin + 50
+    n_particles = 1e4
+    n_burnin = 2000
+    n_steps = n_burnin + 5000
     n_chains = 2
     n_thin = 5
-    n_threads = 4
+    n_threads = 40 # Number of CPU threads (OMP)
     
 
     ## ===== Load data =====
