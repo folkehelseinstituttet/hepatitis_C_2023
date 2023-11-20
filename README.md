@@ -2,7 +2,7 @@
 Model of hepatitis C transmission among people who inject drugs and immigrants in Norway used in Whittaker, Midtbø and Kløvstad (submitted)
 
 ## How to run
-The model is run by standing in the model/ directory and sourcing `run_hcv_model_odin.R`.
+The model is run by standing in the `model` directory and sourcing `run_hcv_model_odin.R`.
 You will need to look at both that file and also `plots.R` to see which libraries are required in order to run. For the `odin/dust/odin.dust/mcstate` package suite, we recommend installing the latest main-branch versions straight from their respective github repositories (see readme in those repos).
 
 ## Data availability
