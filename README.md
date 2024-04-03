@@ -1,9 +1,9 @@
 # Hepatitis C infectious disease model
-Model of hepatitis C transmission among people who inject drugs and immigrants in Norway used in Whittaker, Midtbø and Kløvstad (submitted)
+Model of hepatitis C transmission among people who inject drugs and immigrants in Norway used in Whittaker, Midtbø and Kløvstad: Monitoring progress towards the elimination of hepatitis C as a public health threat in Norway: a modelling study among people who inject drugs and immigrants, The Journal of Infectious Diseases, jiae147, https://doi.org/10.1093/infdis/jiae147 (2024)
 
 ## How to run
 The model is run by standing in the `model` directory and sourcing `run_hcv_model_odin.R`.
-You will need to look at both that file and also `plots.R` to see which libraries are required in order to run. For the `odin/dust/odin.dust/mcstate` package suite, we recommend installing the latest main-branch versions straight from their respective github repositories (see readme in those repos).
+You will need to look at both that file and also `plots.R`, which gets automatically sourced at the end of the main run script, to see which libraries are required in order to run. For the `odin/dust/odin.dust/mcstate` package suite, we recommend installing the latest main-branch versions straight from their respective github repositories (see readme in those repos).
 
 ## Data availability
 All data required to run the model is included, with one notable exception: The country-specific estimates for prevalence of chronic hepatitis C are from a non-open-access publication[^1]. Therefore, we include here only a file with mock numbers to demonstrate the format, and it is up to the user to obtain the correct numbers and include them in the model.
